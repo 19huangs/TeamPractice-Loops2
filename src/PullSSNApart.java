@@ -20,7 +20,7 @@ last = ((ssn-first*10000));
 System.out.println("You are " + age + " years old.");
 System.out.println("I have " + years + " until I can vote.");
 System.out.println("Your social security number is " + ssn + ".");
-System.out.println("The last four digits are " + last + ".");
+System.out.println("The last four digits are" + last + ".");
 	}
 
 }
