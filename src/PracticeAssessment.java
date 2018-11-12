@@ -44,7 +44,7 @@ public class PracticeAssessment {
 		for (counter = number; counter <= 1000; counter = counter + 2) {
 			sum = sum + counter;
 		}
-		System.out.println(sum);
+		System.out.println(sum );
 
 	}
 
